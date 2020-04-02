@@ -1,2 +1,2 @@
 # jntuhcej-student-marks
-code to take all students marks at once
+code to scrap all students marks at once
